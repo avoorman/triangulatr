@@ -5,5 +5,5 @@ Install in R with the following:
 
 ```
 install.packages('devtools')
-devtools::install_github("username/triangulatr")
+devtools::install_github("avoorman/triangulatr")
 ```
